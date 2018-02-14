@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/tiner101/Interior-Landshaft-Design.git" resolutions="1x" timestamp="1518344290881">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3817323195" ref="index"/>
+    <file name="master_______-a.css" crc="3894386391" ref="контакты:наши-работы:index:о-сайте"/>
+    <file name="________.css" crc="446529609" ref="контакты"/>
+    <file name="____-______.css" crc="152685567" ref="наши-работы"/>
+    <file name="_-_____.css" crc="303938559" ref="о-сайте"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="museutils.js" crc="4232573551" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="whatinput.js" crc="86476730" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="require.js" crc="4234670167" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="webpro.js" crc="3770351119" ref="index:контакты"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u1378.php" crc="522452998" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="form-u3601.php" crc="536143107" ref="контакты"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="контакты"/>
+  </folder>
+  <folder name="images">
+    <file name="u265-4.png" crc="300995389" ref="index:наши-работы:контакты:о-сайте"/>
+    <file name="nature_154-u328-fr.png" crc="218379423" ref="index"/>
+    <file name="5c3xaot42ew.jpg" crc="3930990715" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tzwxkcq1_pk.jpg" crc="390883844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9fsxzhl-upq.jpg" crc="3777271241" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obrazek-contact.jpg" crc="363503741" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3bft-n1hzuq.jpg" crc="3878436411" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="9fsxzhl-upq2.jpg" crc="4120881790" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="7kyhd6mkrk8.jpg" crc="279167058" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="5y0y6fp95su.jpg" crc="4082166924" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="sp0_ejji_l4.jpg" crc="509486792" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="cllwb8pjfsg.jpg" crc="253440686" ref="наши-работы">
+      <caption webpage="наши-работы" alt=""/>
+    </file>
+    <file name="af0655d055be084fb236de43fa5.jpg" crc="263271183" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="241ada48c8f3533239e0436ce32.jpg" crc="7374261" ref="о-сайте">
+      <caption webpage="о-сайте" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="377839208" seo="true" mt="1518343397333" redirect="true"/>
+  <file name="наши-работы.html" crc="4000299369" seo="true" mt="1518343397333" redirect="true"/>
+  <file name="контакты.html" crc="3828371043" seo="true" mt="1518343397333" redirect="true"/>
+  <file name="о-сайте.html" crc="4079234996" seo="true" mt="1518343397333" redirect="true"/>
+</manifest>
